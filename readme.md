@@ -1,3 +1,6 @@
+
+###this is a sevenboo's blog website
+
 ###目录结构
 - seven_webapp/     <-- 根目录
 - backup/           <-- 备份目录
